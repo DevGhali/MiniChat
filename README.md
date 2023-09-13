@@ -1,2 +1,12 @@
-# MiniChat
-Mini server-clients chat room
+# MiniChat Mini server-client(s) chat room
+
+```
+  __  __ _       _    _____ _           _   
+ |  \/  (_)     (_)  / ____| |         | |  
+ | \  / |_ _ __  _  | |    | |__   __ _| |_ 
+ | |\/| | | '_ \| | | |    | '_ \ / _` | __|
+ | |  | | | | | | | | |____| | | | (_| | |_ 
+ |_|  |_|_|_| |_|_|  \_____|_| |_|\__,_|\__|
+```
+
+Pretty much straightforward !
